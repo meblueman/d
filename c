@@ -1,5 +1,3 @@
-vless://2a1d1a55-10cd-445f-d70b-b3ec3d4f66d5@193.43.94.33:54790?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lg.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#A%7CA
+vless://2a1d1a55-10cd-445f-d70b-b3ec3d4f66d5@193.43.94.33:54790?encryption=none&security=reality&sni=www.fontawesome.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#A%7CA
 vless://12c646ed-4bcc-4cb3-a4f0-039b68ba8895@193.43.94.33:33115?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#B%7CB
-vless://b20570cc-dc50-45a0-81e6-49410f695106@193.43.94.33:11027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#C%7CC
-vless://ae6cb85e-a8de-48b5-8970-93f915c5f782@193.43.94.33:443?type=tcp&security=reality&sni=www.eurovision.net&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&flow=&fp=chrome#D|D
-vless://a1e0a206-6604-4c16-e048-ca2dc784fd3a@193.43.94.33:36003?type=tcp&security=reality&sni=www.eurovisionsports.tv&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&flow=xtls-rprx-vision&fp=chrome#E|E
+vless://b20570cc-dc50-45a0-81e6-49410f695106@193.43.94.33:11027?encryption=none&security=reality&sni=www.ieee.org&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#C%7CC
