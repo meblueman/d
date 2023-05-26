@@ -1,1 +1,1 @@
-vless://fb451be0-805f-4ece-b032-56c4e1f1fe7f@193.187.175.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Z1EZ0qa3Stba5yea8g1QE9b6C3MBnpE9yiWRCW1a5DM&sid=8ee224ed25d27298&type=tcp&headerType=none#SING-BOX-TCP
+vless://fb451be0-805f-4ece-b032-56c4e1f1fe7f@193.187.175.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Z1EZ0qa3Stba5yea8g1QE9b6C3MBnpE9yiWRCW1a5DM&sid=8ee224ed25d27298&type=tcp&headerType=none#B|B
