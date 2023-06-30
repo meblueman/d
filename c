@@ -1,2 +1,2 @@
-vless://578807a2-cb55-4fbc-8471-eda0ad4c6e61@193.187.175.144:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=iA3VPJAx34b_mw3MZeAkAaFjAJ_TQ7HTyxOxuba1axQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=e36d713e626e6c96#B-B
+vless://f5fb1189-64c1-42b2-92fc-e1de24fd0f1c@45.145.4.67:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=7F15ELxA7NDHwttntHuyAhbyqGJsWChECSzd8ibVYH0&sid=325695c4c518adab&type=tcp&headerType=none#Ahmad
 vless://92e1e0af-3801-4d53-afd4-e831782fcb2c@cd.fantom.cfd:443?encryption=none&security=tls&sni=cd.fantom.cfd&fp=chrome&type=ws&host=cd.fantom.cfd#C-C
