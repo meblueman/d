@@ -1,2 +1,2 @@
-vless://f5fb1189-64c1-42b2-92fc-e1de24fd0f1c@45.145.4.67:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=7F15ELxA7NDHwttntHuyAhbyqGJsWChECSzd8ibVYH0&sid=325695c4c518adab&type=tcp&headerType=none#Ahmad
+vless://cee06d29-00b5-4158-bb7e-73bcf50140ef@45.145.4.234:443?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&pbk=fRQOHrdChSn3PFXxxObW8hne-idQCUSQD86CbVIu12M&sid=ab5eed16a064d6ac#Ahmad
 vless://92e1e0af-3801-4d53-afd4-e831782fcb2c@cd.fantom.cfd:443?encryption=none&security=tls&sni=cd.fantom.cfd&fp=chrome&type=ws&host=cd.fantom.cfd#C-C
