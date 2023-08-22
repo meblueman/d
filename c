@@ -1,2 +1,1 @@
-vless://cee06d29-00b5-4158-bb7e-73bcf50140ef@45.145.4.234:443?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&pbk=gtck2hO9kzSkI1_Z65Wj1qW2OH0HrI80Eio-ApF1xlg&sid=603635843cfffe3d#Ahmad
-vless://92e1e0af-3801-4d53-afd4-e831782fcb2c@cd.fantom.cfd:443?encryption=none&security=tls&sni=cd.fantom.cfd&fp=chrome&type=ws&host=cd.fantom.cfd#C-C
+trojan://9QIERFqYzC@s2.fidx.sbs:443?security=tls&fp=chrome&type=ws&path=%2F#A-Ahmad%20%7C%20New
